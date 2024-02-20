@@ -11,7 +11,7 @@ I use React Native for this exam with Redux State management integration. I star
 2. Delete a task.
 3. Complete a task.
 4. Edit and update a task.
-5. View tasks sorted by name.
+5. Automatically sorted by the name of the task.
 6. View the number of total and completed tasks.
 
 
