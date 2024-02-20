@@ -4,7 +4,7 @@ To do application for IT Americano Exam
 Hi, this is Kier Ronybel Berdin, and this is my simple to-do app for the examination.
 
 
-I use React Native for this exam with Redux State management integration. I can do more with this app, but my recruiter said that this exam has a 24-hour deadline. I started coding this exam late because we have an emergency here in our house, so I can't start immediately. For the design, I keep it simple because I don't have enough time to make it more beautiful, but all the logic in the given exam is here. This is the given task that is finished; please see below:
+I use React Native for this exam with Redux State management integration. I started coding this exam late because we have an emergency here in our house, so I can't start immediately. For the design, I keep it simple because I don't have enough time to make it more beautiful, but all the logic in the given exam is here. This is the given task that is finished; please see below:
 
 
 1. Add and view tasks
